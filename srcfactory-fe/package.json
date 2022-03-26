@@ -1,0 +1,13 @@
+{
+  "name": "srcfactory-fe",
+  "version": "0.0.1",
+  "description": "소스팩토리 백엔드 라이브러리",
+  "keywords": [
+    "srcfactory"
+  ],
+  "author": "master@srcfactory.com",
+  "license": "MIT",
+  "dependencies": {
+    "srcfactory-common": "*"
+  }
+}

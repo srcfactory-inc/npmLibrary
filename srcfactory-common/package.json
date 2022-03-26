@@ -1,0 +1,13 @@
+{
+  "name": "srcfactory-common",
+  "version": "0.0.3",
+  "description": "소스팩토리 기본 라이브러리",
+  "keywords": [
+    "srcfactory"
+  ],
+  "author": "master@srcfactory.com",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
+}
